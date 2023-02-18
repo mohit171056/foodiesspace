@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foodiesspace/static/css/main.5f7fb947.chunk.css",
+    "main.js": "/foodiesspace/static/js/main.0d4c3692.chunk.js",
+    "main.js.map": "/foodiesspace/static/js/main.0d4c3692.chunk.js.map",
+    "runtime-main.js": "/foodiesspace/static/js/runtime-main.a949630c.js",
+    "runtime-main.js.map": "/foodiesspace/static/js/runtime-main.a949630c.js.map",
+    "static/js/2.5ed75603.chunk.js": "/foodiesspace/static/js/2.5ed75603.chunk.js",
+    "static/js/2.5ed75603.chunk.js.map": "/foodiesspace/static/js/2.5ed75603.chunk.js.map",
+    "static/js/3.26481475.chunk.js": "/foodiesspace/static/js/3.26481475.chunk.js",
+    "static/js/3.26481475.chunk.js.map": "/foodiesspace/static/js/3.26481475.chunk.js.map",
+    "index.html": "/foodiesspace/index.html",
+    "static/css/main.5f7fb947.chunk.css.map": "/foodiesspace/static/css/main.5f7fb947.chunk.css.map",
+    "static/js/2.5ed75603.chunk.js.LICENSE.txt": "/foodiesspace/static/js/2.5ed75603.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a949630c.js",
+    "static/js/2.5ed75603.chunk.js",
+    "static/css/main.5f7fb947.chunk.css",
+    "static/js/main.0d4c3692.chunk.js"
+  ]
+}
