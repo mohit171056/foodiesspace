@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/foodiesspace/static/css/main.5f7fb947.chunk.css",
-    "main.js": "/foodiesspace/static/js/main.8c578715.chunk.js",
-    "main.js.map": "/foodiesspace/static/js/main.8c578715.chunk.js.map",
+    "main.js": "/foodiesspace/static/js/main.e55354e4.chunk.js",
+    "main.js.map": "/foodiesspace/static/js/main.e55354e4.chunk.js.map",
     "runtime-main.js": "/foodiesspace/static/js/runtime-main.4651b6ed.js",
     "runtime-main.js.map": "/foodiesspace/static/js/runtime-main.4651b6ed.js.map",
     "static/js/2.9b96aaeb.chunk.js": "/foodiesspace/static/js/2.9b96aaeb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4651b6ed.js",
     "static/js/2.9b96aaeb.chunk.js",
     "static/css/main.5f7fb947.chunk.css",
-    "static/js/main.8c578715.chunk.js"
+    "static/js/main.e55354e4.chunk.js"
   ]
 }
